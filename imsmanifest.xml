@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mo4530d8433qo"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mo4530d8433qo">
+    <organization identifier="eXe-mo4530d8433qo" structure="hierarchical">
+      <title>Situación de Aprendizaje</title>
+      <item identifier="ITEM-page-mo42db50-4148kt3ea" identifierref="RES-page-mo42db50-4148kt3ea" isvisible="true">
+        <title>Ideas en Movimiento: La
+Filosofía Hoy</title>
+        <item identifier="ITEM-page-mo42db53-q0kntdqov" identifierref="RES-page-mo42db53-q0kntdqov" isvisible="true">
+          <title>Intención educativa</title>
+        </item>
+        <item identifier="ITEM-page-mo42db53-ll0y6xw8c" identifierref="RES-page-mo42db53-ll0y6xw8c" isvisible="true">
+          <title>Elementos curriculares</title>
+        </item>
+        <item identifier="ITEM-page-mo42db54-1rvr08wap" identifierref="RES-page-mo42db54-1rvr08wap" isvisible="true">
+          <title> Metodologías activas</title>
+        </item>
+        <item identifier="ITEM-page-mo42db54-0x22esst4" identifierref="RES-page-mo42db54-0x22esst4" isvisible="true">
+          <title>Vinculación con los proyectos y programas del centro</title>
+        </item>
+        <item identifier="ITEM-page-mo42db54-b8n4t6a9t" identifierref="RES-page-mo42db54-b8n4t6a9t" isvisible="true">
+          <title>Actividades complementarias y extraescolares</title>
+        </item>
+        <item identifier="ITEM-page-mo42db54-an518roxf" identifierref="RES-page-mo42db54-an518roxf" isvisible="true">
+          <title>Atribución y descarga</title>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mo42db50-4148kt3ea" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mo42db53-q0kntdqov" type="webcontent" adlcp:scormtype="sco" href="html/intencion-educativa.html">
+      <file href="html/intencion-educativa.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mo42db53-ll0y6xw8c" type="webcontent" adlcp:scormtype="sco" href="html/elementos-curriculares.html">
+      <file href="html/elementos-curriculares.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mo42db54-1rvr08wap" type="webcontent" adlcp:scormtype="sco" href="html/-metodologias-activas.html">
+      <file href="html/-metodologias-activas.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mo42db54-0x22esst4" type="webcontent" adlcp:scormtype="sco" href="html/vinculacion-con-los-proyectos-y-programas-del-cent.html">
+      <file href="html/vinculacion-con-los-proyectos-y-programas-del-cent.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mo42db54-b8n4t6a9t" type="webcontent" adlcp:scormtype="sco" href="html/actividades-complementarias-y-extraescolares.html">
+      <file href="html/actividades-complementarias-y-extraescolares.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mo42db54-an518roxf" type="webcontent" adlcp:scormtype="sco" href="html/atribucion-y-descarga.html">
+      <file href="html/atribucion-y-descarga.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Inter-Bold.woff"/>
+      <file href="theme/fonts/Inter-Bold.woff2"/>
+      <file href="theme/fonts/Inter-BoldItalic.woff"/>
+      <file href="theme/fonts/Inter-BoldItalic.woff2"/>
+      <file href="theme/fonts/Inter-Italic.woff"/>
+      <file href="theme/fonts/Inter-Italic.woff2"/>
+      <file href="theme/fonts/Inter-Regular.woff"/>
+      <file href="theme/fonts/Inter-Regular.woff2"/>
+      <file href="theme/icons/activity.svg"/>
+      <file href="theme/icons/agreement.svg"/>
+      <file href="theme/icons/alert.svg"/>
+      <file href="theme/icons/arts.svg"/>
+      <file href="theme/icons/ask.svg"/>
+      <file href="theme/icons/book.svg"/>
+      <file href="theme/icons/calculate.svg"/>
+      <file href="theme/icons/case.svg"/>
+      <file href="theme/icons/chrono.svg"/>
+      <file href="theme/icons/collaborative.svg"/>
+      <file href="theme/icons/competencies.svg"/>
+      <file href="theme/icons/diary.svg"/>
+      <file href="theme/icons/diary_alt.svg"/>
+      <file href="theme/icons/discuss.svg"/>
+      <file href="theme/icons/download.svg"/>
+      <file href="theme/icons/draw.svg"/>
+      <file href="theme/icons/english.svg"/>
+      <file href="theme/icons/experiment.svg"/>
+      <file href="theme/icons/explore.svg"/>
+      <file href="theme/icons/file.svg"/>
+      <file href="theme/icons/gallery.svg"/>
+      <file href="theme/icons/geography.svg"/>
+      <file href="theme/icons/guide.svg"/>
+      <file href="theme/icons/history.svg"/>
+      <file href="theme/icons/info.svg"/>
+      <file href="theme/icons/interactive.svg"/>
+      <file href="theme/icons/letters.svg"/>
+      <file href="theme/icons/listen.svg"/>
+      <file href="theme/icons/math.svg"/>
+      <file href="theme/icons/music.svg"/>
+      <file href="theme/icons/nature.svg"/>
+      <file href="theme/icons/objectives.svg"/>
+      <file href="theme/icons/observe.svg"/>
+      <file href="theme/icons/passport.svg"/>
+      <file href="theme/icons/perform.svg"/>
+      <file href="theme/icons/piece.svg"/>
+      <file href="theme/icons/pieces.svg"/>
+      <file href="theme/icons/play.svg"/>
+      <file href="theme/icons/present.svg"/>
+      <file href="theme/icons/reflection.svg"/>
+      <file href="theme/icons/roadmap.svg"/>
+      <file href="theme/icons/share.svg"/>
+      <file href="theme/icons/sport.svg"/>
+      <file href="theme/icons/start.svg"/>
+      <file href="theme/icons/stop.svg"/>
+      <file href="theme/icons/suitcase.svg"/>
+      <file href="theme/icons/technology.svg"/>
+      <file href="theme/icons/think.svg"/>
+      <file href="theme/icons/think_alt.svg"/>
+      <file href="theme/icons/video.svg"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_down_white.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/arrow_up_white.svg"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

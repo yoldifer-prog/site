@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260418113309IUQSU7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260418113309LNXG4B</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Historia de la Filosofía 2º Bachillerato</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Filosofía en el S. XX</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776503806056</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo42db50-4148kt3ea</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ideas en Movimiento: La
+Filosofía Hoy</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ideas en Movimiento: La
+Filosofía Hoy</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ideas en Movimiento: La
+Filosofía Hoy</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Ideas en Movimiento: La
+Filosofía Hoy</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo42db50-4148kt3ea</odePageId>
+      <odeBlockId>block-1776443570068-u1bgr2x4e</odeBlockId>
+      <blockName>Descripción de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db50-4148kt3ea</odePageId>
+          <odeBlockId>block-1776443570068-u1bgr2x4e</odeBlockId>
+          <odeIdeviceId>idevice-1776443570066-2sdlat17d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Situación de aprendizaje dirigida a 2º de bachillerato en la materia de Historia de la Filosofía.</p>
+<p>Temporalización: 8 sesiones en el tercer trimestre</p>
+<p>Agrupamientos:</p>
+<ul>
+<li>Grupos heterogéneos </li>
+<li>Parejas </li>
+<li>Gran grupo o grupo-clase </li>
+<li>Trabajo individual </li>
+</ul>
+<p>Productos finales:</p>
+<ul>
+<li>Infografías</li>
+<li>Vídeo presentaciones</li>
+<li>Exposición oral</li>
+<li>Disertación</li>
+</ul>
+<p>Materiales y recursos: </p>
+<ul>
+<li>Digitales </li>
+<li>Analógicos</li>
+<li>Otros: aula informática, móviles/pc. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776443570066-2sdlat17d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Situación de aprendizaje dirigida a 2º de bachillerato en la materia de Historia de la Filosofía.</p>\n<p>Temporalización: 8 sesiones en el tercer trimestre</p>\n<p>Agrupamientos:</p>\n<ul>\n<li>Grupos heterogéneos </li>\n<li>Parejas </li>\n<li>Gran grupo o grupo-clase </li>\n<li>Trabajo individual </li>\n</ul>\n<p>Productos finales:</p>\n<ul>\n<li>Infografías</li>\n<li>Vídeo presentaciones</li>\n<li>Exposición oral</li>\n<li>Disertación</li>\n</ul>\n<p>Materiales y recursos: </p>\n<ul>\n<li>Digitales </li>\n<li>Analógicos</li>\n<li>Otros: aula informática, móviles/pc. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo42db53-q0kntdqov</odePageId>
+  <odeParentPageId>page-mo42db50-4148kt3ea</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo42db53-q0kntdqov</odePageId>
+      <odeBlockId>block-1776444996823-1xk6upss4</odeBlockId>
+      <blockName>Justificación y relación con ODS y Retos S. XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db53-q0kntdqov</odePageId>
+          <odeBlockId>block-1776444996823-1xk6upss4</odeBlockId>
+          <odeIdeviceId>idevice-1776444996820-bx9bhqi89</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="text-decoration: underline;"><strong>JUSTIFICACIÓN</strong></span></p>
+<p style="text-align: justify;">"<em><strong>Ideas en Movimiento: La Filosofía Hoy</strong></em>" busca acercar al alumnado a la filosofía contemporánea, mostrando su vigencia, pluralidad y capacidad de transformación social, visibilizando a pensadoras actuales que han sido históricamente marginadas, desarrollando el pensamiento crítico, la igualdad de género y la competencia digital.  El producto final de la situación incluye una reflexión individual sobre la filosofía en el S. XX y el valor de su aportación en relación con los desafíos contemporáneos, desde un enfoque crítico, ético y ciudadano.</p>
+<p style="text-align: justify;">Con esta situación se pretende:</p>
+<p style="text-align: justify;">-Visibilizar la aportación de las mujeres a la filosofía contemporánea, corrigiendo el sesgo tradicional del canon filosófico.<br />-Desarrollar la competencia de investigación, integrando herramientas digitales y fuentes fiables.<br />-Conectar la filosofía con los retos del presente, como la igualdad, la justicia, los derechos humanos, el poder o la construcción de identidades.<br />-Fomentar el pensamiento crítico, el compromiso ético y la sensibilidad social, a través del diálogo, la reflexión y la exposición de ideas.<br />-Promover la autonomía del alumnado y el trabajo cooperativo, elaborando un producto final significativo, creativo y argumentado.</p>
+<p style="text-align: justify;">Esta propuesta da cierre a la unidad “La filosofía de hoy” desde una perspectiva plural, actual y comprometida, con el objetivo de formar personas críticas, informadas y conscientes del mundo en que viven.</p>
+<p><span style="text-decoration: underline;"><strong>EDUCACIÓN EN VALORES Y SOSTENIBILIDAD</strong></span><strong> (Relación con los ODS y Retos S.XXI)</strong></p>
+<p style="text-align: justify;">La filosofía actual no es solo reflexión abstracta: es una herramienta vital para pensar el presente y orientar el futuro. En un mundo marcado por la crisis ecológica, las desigualdades y los avances tecnológicos, la educación en valores debe inspirarse en la filosofía para formar ciudadanos críticos, libres y responsables. Así, la filosofía hoy impulsa una educación orientada a la sostenibilidad, al cuidado del planeta, la justicia global y la responsabilidad intergeneracional. Solo con pensamiento profundo y ético podremos construir un futuro habitable y digno para todos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776444996820-bx9bhqi89","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>JUSTIFICACIÓN</strong></span></p>\n<p style=\"text-align: justify;\">\"<em><strong>Ideas en Movimiento: La Filosofía Hoy</strong></em>\" busca acercar al alumnado a la filosofía contemporánea, mostrando su vigencia, pluralidad y capacidad de transformación social, visibilizando a pensadoras actuales que han sido históricamente marginadas, desarrollando el pensamiento crítico, la igualdad de género y la competencia digital.  El producto final de la situación incluye una reflexión individual sobre la filosofía en el S. XX y el valor de su aportación en relación con los desafíos contemporáneos, desde un enfoque crítico, ético y ciudadano.</p>\n<p style=\"text-align: justify;\">Con esta situación se pretende:</p>\n<p style=\"text-align: justify;\">-Visibilizar la aportación de las mujeres a la filosofía contemporánea, corrigiendo el sesgo tradicional del canon filosófico.<br />-Desarrollar la competencia de investigación, integrando herramientas digitales y fuentes fiables.<br />-Conectar la filosofía con los retos del presente, como la igualdad, la justicia, los derechos humanos, el poder o la construcción de identidades.<br />-Fomentar el pensamiento crítico, el compromiso ético y la sensibilidad social, a través del diálogo, la reflexión y la exposición de ideas.<br />-Promover la autonomía del alumnado y el trabajo cooperativo, elaborando un producto final significativo, creativo y argumentado.</p>\n<p style=\"text-align: justify;\">Esta propuesta da cierre a la unidad “La filosofía de hoy” desde una perspectiva plural, actual y comprometida, con el objetivo de formar personas críticas, informadas y conscientes del mundo en que viven.</p>\n<p><span style=\"text-decoration: underline;\"><strong>EDUCACIÓN EN VALORES Y SOSTENIBILIDAD</strong></span><strong> (Relación con los ODS y Retos S.XXI)</strong></p>\n<p style=\"text-align: justify;\">La filosofía actual no es solo reflexión abstracta: es una herramienta vital para pensar el presente y orientar el futuro. En un mundo marcado por la crisis ecológica, las desigualdades y los avances tecnológicos, la educación en valores debe inspirarse en la filosofía para formar ciudadanos críticos, libres y responsables. Así, la filosofía hoy impulsa una educación orientada a la sostenibilidad, al cuidado del planeta, la justicia global y la responsabilidad intergeneracional. Solo con pensamiento profundo y ético podremos construir un futuro habitable y digno para todos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+  <odeParentPageId>page-mo42db50-4148kt3ea</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+      <odeBlockId>block-1776445666644-cayw5xvg0</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+          <odeBlockId>block-1776445666644-cayw5xvg0</odeBlockId>
+          <odeIdeviceId>idevice-1776445666643-7hp9irfbq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Descriptores operativos del perfil de salida:</strong></p>
+<p>CCL1,CCL2, CCL3, CD1, CC1, CC2, CC3, CCEC1, CPSAA4, CC4, CE1, CE3</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776445666643-7hp9irfbq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Descriptores operativos del perfil de salida:</strong></p>\n<p>CCL1,CCL2, CCL3, CD1, CC1, CC2, CC3, CCEC1, CPSAA4, CC4, CE1, CE3</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+      <odeBlockId>block-1776445727411-h17ge5550</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+          <odeBlockId>block-1776445727411-h17ge5550</odeBlockId>
+          <odeIdeviceId>idevice-1776445727411-zmyxt60ic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> HF1, HF4, HF5, HF6, HF7</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776445727411-zmyxt60ic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> HF1, HF4, HF5, HF6, HF7</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+      <odeBlockId>block-1776445773402-gesdkqueq</odeBlockId>
+      <blockName>Saberes Básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+          <odeBlockId>block-1776445773402-gesdkqueq</odeBlockId>
+          <odeIdeviceId>idevice-1776445773402-s0ahmn657</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>C7 y C8:</strong></p>
+<p style="text-align: justify;">-La filosofía como herramienta para interpretar el mundo actual.<br />-Identificación de problemas contemporáneos: tecnología, medio ambiente, género, justicia, identidad.<br />-Diálogo con corrientes actuales: filosofía feminista, postestructuralismo, hermenéutica, filosofía analítica.<br />-Valoración del pensamiento diverso, intercultural y plural.<br />-Visibilización de mujeres filósofas contemporáneas (Beauvoir, Butler, Haraway, Nussbaum, etc.).<br />-Reconocimiento de la aportación filosófica femenina y su exclusión histórica.<br />-Análisis crítico del canon filosófico tradicional desde una perspectiva inclusiva.<br />-Reflexión sobre el contexto sociocultural que influye en la producción filosófica.<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776445773402-s0ahmn657","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>C7 y C8:</strong></p>\n<p style=\"text-align: justify;\">-La filosofía como herramienta para interpretar el mundo actual.<br />-Identificación de problemas contemporáneos: tecnología, medio ambiente, género, justicia, identidad.<br />-Diálogo con corrientes actuales: filosofía feminista, postestructuralismo, hermenéutica, filosofía analítica.<br />-Valoración del pensamiento diverso, intercultural y plural.<br />-Visibilización de mujeres filósofas contemporáneas (Beauvoir, Butler, Haraway, Nussbaum, etc.).<br />-Reconocimiento de la aportación filosófica femenina y su exclusión histórica.<br />-Análisis crítico del canon filosófico tradicional desde una perspectiva inclusiva.<br />-Reflexión sobre el contexto sociocultural que influye en la producción filosófica.<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+      <odeBlockId>block-1776445805003-cb80365ni</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db53-ll0y6xw8c</odePageId>
+          <odeBlockId>block-1776445805003-cb80365ni</odeBlockId>
+          <odeIdeviceId>idevice-1776445805003-097ha6x9t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> HF1.1, HF1.2, HF4.1, HF5.1, HF5.2, HF6.1, HF7.1</p>
+<p>·         El alumnado identifica y define correctamente conceptos actuales como género, justicia, identidad, cuerpo, tecnología o posmodernidad, así como las aportaciones filosóficas clave de pensadoras/es contemporáneas.</p>
+<p>·         Comprende y explica los enfoques de autoras como Beauvoir, Butler o Haraway, analizando sus argumentos con coherencia y relacionando los problemas filosóficos con los contextos actuales.</p>
+<p>·         Relaciona críticamente los problemas actuales con otras épocas del pensamiento filosófico (por ejemplo, el análisis de la moral, el poder o la identidad desde la Antigüedad hasta hoy), valorando la evolución de los conceptos.</p>
+<p>·         Analiza con juicio crítico situaciones reales o dilemas actuales desde la perspectiva filosófica de las/os autoras/es estudiados (por ejemplo, los discursos sobre género, la bioética o la inteligencia artificial).</p>
+<p>·         Emite valoraciones argumentadas sobre la vigencia de la filosofía en el mundo actual, reconociendo la importancia de pensar desde la diversidad de voces y experiencias, especialmente desde la perspectiva de las mujeres.</p>
+<p>·         Aplica el pensamiento de las filósofas contemporáneas a debates actuales (por ejemplo: feminismo, identidad, justicia social, tecnología), con propuestas razonadas y conectadas con el presente.</p>
+<p>·         Comunica sus reflexiones de forma clara, ordenada y rigurosa, tanto en exposiciones orales (debates o presentaciones), como en redacciones o comentarios filosóficos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776445805003-097ha6x9t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> HF1.1, HF1.2, HF4.1, HF5.1, HF5.2, HF6.1, HF7.1</p>\n<p>·         El alumnado identifica y define correctamente conceptos actuales como género, justicia, identidad, cuerpo, tecnología o posmodernidad, así como las aportaciones filosóficas clave de pensadoras/es contemporáneas.</p>\n<p>·         Comprende y explica los enfoques de autoras como Beauvoir, Butler o Haraway, analizando sus argumentos con coherencia y relacionando los problemas filosóficos con los contextos actuales.</p>\n<p>·         Relaciona críticamente los problemas actuales con otras épocas del pensamiento filosófico (por ejemplo, el análisis de la moral, el poder o la identidad desde la Antigüedad hasta hoy), valorando la evolución de los conceptos.</p>\n<p>·         Analiza con juicio crítico situaciones reales o dilemas actuales desde la perspectiva filosófica de las/os autoras/es estudiados (por ejemplo, los discursos sobre género, la bioética o la inteligencia artificial).</p>\n<p>·         Emite valoraciones argumentadas sobre la vigencia de la filosofía en el mundo actual, reconociendo la importancia de pensar desde la diversidad de voces y experiencias, especialmente desde la perspectiva de las mujeres.</p>\n<p>·         Aplica el pensamiento de las filósofas contemporáneas a debates actuales (por ejemplo: feminismo, identidad, justicia social, tecnología), con propuestas razonadas y conectadas con el presente.</p>\n<p>·         Comunica sus reflexiones de forma clara, ordenada y rigurosa, tanto en exposiciones orales (debates o presentaciones), como en redacciones o comentarios filosóficos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo42db54-1rvr08wap</odePageId>
+  <odeParentPageId>page-mo42db50-4148kt3ea</odeParentPageId>
+  <pageName> Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo42db54-1rvr08wap</odePageId>
+      <odeBlockId>block-1776500287461-efug7w2sx</odeBlockId>
+      <blockName>Enfoque metodológico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db54-1rvr08wap</odePageId>
+          <odeBlockId>block-1776500287461-efug7w2sx</odeBlockId>
+          <odeIdeviceId>idevice-1776500287460-3ai8zb3w0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Aprendizaje basado en proyectos </li>
+<li>Aprendizaje colaborativo y cooperativo </li>
+<li>Gamificación </li>
+<li>Aprendizaje por descubrimiento </li>
+<li>Técnicas y dinámicas de grupo </li>
+<li>Explicación gran-grupo </li>
+<li>Micropíldoras</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776500287460-3ai8zb3w0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Aprendizaje basado en proyectos </li>\n<li>Aprendizaje colaborativo y cooperativo </li>\n<li>Gamificación </li>\n<li>Aprendizaje por descubrimiento </li>\n<li>Técnicas y dinámicas de grupo </li>\n<li>Explicación gran-grupo </li>\n<li>Micropíldoras</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo42db54-1rvr08wap</odePageId>
+      <odeBlockId>block-1776500543285-9euvcj47x</odeBlockId>
+      <blockName>Atención a la diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db54-1rvr08wap</odePageId>
+          <odeBlockId>block-1776500543285-9euvcj47x</odeBlockId>
+          <odeIdeviceId>idevice-1776500543285-lv3byxkdq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Adaptaciones metodológicas</strong></p>
+<p style="text-align: justify;">-Uso de diferentes metodologías activas (debate, aprendizaje cooperativo, visual thinking, lectura guiada) para atender distintos estilos de aprendizaje (visual, auditivo, kinestésico).<br />-Preguntas de andamiaje durante el análisis de textos, para facilitar la comprensión en alumnado con dificultades lectoras o de concentración.<br />-Agrupaciones flexibles para que los alumnos trabajen en función de sus necesidades (apoyo entre iguales, tutoría entre compañeros, grupos heterogéneos).<br />-Uso de esquemas y mapas conceptuales como apoyo visual para estructurar los contenidos.</p>
+<p style="text-align: justify;"><br /><strong>Adaptaciones curriculares no significativas</strong></p>
+<p style="text-align: justify;">-Reducción o simplificación de tareas escritas, priorizando la comprensión de conceptos clave para alumnado con dificultades.<br />-Adaptación del ritmo de trabajo: ampliación de tiempos para actividades de comentario de texto o elaboración de ensayos.<br />-Apoyo individualizado en la corrección y mejora de actividades escritas, especialmente en alumnado con NEAE (Necesidades Específicas de Apoyo Educativo).</p>
+<p style="text-align: justify;"><br /><strong>Recursos didácticos diversos</strong></p>
+<p style="text-align: justify;">-Material audiovisual: vídeos explicativos (ej. TED-Ed, Academia Play) como herramienta para el alumnado con dificultades de abstracción.<br />-Textos adaptados o fragmentos seleccionados para alumnado con bajo nivel de lectura comprensiva.<br />-Presentaciones con pictogramas o símbolos visuales en casos de alumnado con TEA o dificultades cognitivas leves.<br />-Uso de rubricas claras y modelos para tareas escritas o comentarios filosóficos, facilitando la autoevaluación.</p>
+<p style="text-align: justify;"><br /><strong>Evaluación inclusiva</strong></p>
+<p style="text-align: justify;">-Diversificación de instrumentos de evaluación: comentarios de texto, presentaciones orales, debates, exposiciones visuales (murales o mapas).<br />-Observación sistemática del progreso individual y retroalimentación continua.<br />-Posibilidad de realizar pruebas orales o de forma asistida en casos necesarios.</p>
+<p style="text-align: justify;"><br /><strong>Coordinación y seguimiento</strong></p>
+<p style="text-align: justify;">-Coordinación con el Departamento de Orientación para atender casos con adaptaciones específicas (ACNEE o ACNEAE).<br />-Registro de evidencias de progreso y ajuste de tareas según evolución.<br />-Revisión periódica de los logros individuales en función de los objetivos personalizados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776500543285-lv3byxkdq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Adaptaciones metodológicas</strong></p>\n<p style=\"text-align: justify;\">-Uso de diferentes metodologías activas (debate, aprendizaje cooperativo, visual thinking, lectura guiada) para atender distintos estilos de aprendizaje (visual, auditivo, kinestésico).<br />-Preguntas de andamiaje durante el análisis de textos, para facilitar la comprensión en alumnado con dificultades lectoras o de concentración.<br />-Agrupaciones flexibles para que los alumnos trabajen en función de sus necesidades (apoyo entre iguales, tutoría entre compañeros, grupos heterogéneos).<br />-Uso de esquemas y mapas conceptuales como apoyo visual para estructurar los contenidos.</p>\n<p style=\"text-align: justify;\"><br /><strong>Adaptaciones curriculares no significativas</strong></p>\n<p style=\"text-align: justify;\">-Reducción o simplificación de tareas escritas, priorizando la comprensión de conceptos clave para alumnado con dificultades.<br />-Adaptación del ritmo de trabajo: ampliación de tiempos para actividades de comentario de texto o elaboración de ensayos.<br />-Apoyo individualizado en la corrección y mejora de actividades escritas, especialmente en alumnado con NEAE (Necesidades Específicas de Apoyo Educativo).</p>\n<p style=\"text-align: justify;\"><br /><strong>Recursos didácticos diversos</strong></p>\n<p style=\"text-align: justify;\">-Material audiovisual: vídeos explicativos (ej. TED-Ed, Academia Play) como herramienta para el alumnado con dificultades de abstracción.<br />-Textos adaptados o fragmentos seleccionados para alumnado con bajo nivel de lectura comprensiva.<br />-Presentaciones con pictogramas o símbolos visuales en casos de alumnado con TEA o dificultades cognitivas leves.<br />-Uso de rubricas claras y modelos para tareas escritas o comentarios filosóficos, facilitando la autoevaluación.</p>\n<p style=\"text-align: justify;\"><br /><strong>Evaluación inclusiva</strong></p>\n<p style=\"text-align: justify;\">-Diversificación de instrumentos de evaluación: comentarios de texto, presentaciones orales, debates, exposiciones visuales (murales o mapas).<br />-Observación sistemática del progreso individual y retroalimentación continua.<br />-Posibilidad de realizar pruebas orales o de forma asistida en casos necesarios.</p>\n<p style=\"text-align: justify;\"><br /><strong>Coordinación y seguimiento</strong></p>\n<p style=\"text-align: justify;\">-Coordinación con el Departamento de Orientación para atender casos con adaptaciones específicas (ACNEE o ACNEAE).<br />-Registro de evidencias de progreso y ajuste de tareas según evolución.<br />-Revisión periódica de los logros individuales en función de los objetivos personalizados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo42db54-0x22esst4</odePageId>
+  <odeParentPageId>page-mo42db50-4148kt3ea</odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo42db54-0x22esst4</odePageId>
+      <odeBlockId>block-1776500759630-igenzy5ei</odeBlockId>
+      <blockName>Vinculación con los planes, programas y proyectos de centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db54-0x22esst4</odePageId>
+          <odeBlockId>block-1776500759630-igenzy5ei</odeBlockId>
+          <odeIdeviceId>idevice-1776500759628-ccrppljs4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Plan lector</li>
+<li>Plan digital de centro</li>
+<li>Coeducación: Proyecto de Igualdad de Género</li>
+<li>Revista/Radio escolar</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776500759628-ccrppljs4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Plan lector</li>\n<li>Plan digital de centro</li>\n<li>Coeducación: Proyecto de Igualdad de Género</li>\n<li>Revista/Radio escolar</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo42db54-b8n4t6a9t</odePageId>
+  <odeParentPageId>page-mo42db50-4148kt3ea</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo42db54-b8n4t6a9t</odePageId>
+      <odeBlockId>block-1776501172033-3xf3au3z3</odeBlockId>
+      <blockName>Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db54-b8n4t6a9t</odePageId>
+          <odeBlockId>block-1776501172033-3xf3au3z3</odeBlockId>
+          <odeIdeviceId>idevice-1776501172031-bggi1c02t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Visita al museo de Arte Contemporáneo</li>
+<li>Exposiciones con perspectiva de género</li>
+<li>Teatro contemporáneo-existencialista</li>
+<li>Cinefórum</li>
+<li>Conferencias</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776501172031-bggi1c02t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Visita al museo de Arte Contemporáneo</li>\n<li>Exposiciones con perspectiva de género</li>\n<li>Teatro contemporáneo-existencialista</li>\n<li>Cinefórum</li>\n<li>Conferencias</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo42db54-an518roxf</odePageId>
+  <odeParentPageId>page-mo42db50-4148kt3ea</odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo42db54-an518roxf</odePageId>
+      <odeBlockId>block-1776501567463-on2ndy0f1</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo42db54-an518roxf</odePageId>
+          <odeBlockId>block-1776501567463-on2ndy0f1</odeBlockId>
+          <odeIdeviceId>idevice-1776501567460-ehix8s5zf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de Aprendizaje</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Filosofía en el S. XX</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
